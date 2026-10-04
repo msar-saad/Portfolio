@@ -2,7 +2,7 @@
 
 Personal portfolio website (English / French), built with HTML, CSS and JavaScript.
 
-🔗 **Live site:** https://your-username.github.io/portfolio/
+🔗 **Live site:** https://msar-saad/.github.io/portfolio/
 
 ## Features
 - Bilingual (EN/FR) toggle
